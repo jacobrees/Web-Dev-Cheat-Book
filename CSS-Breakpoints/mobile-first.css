@@ -1,0 +1,17 @@
+/* Small devices (default) */
+/* ...code... */
+
+/* Medium devices */
+@media only screen and (min-width: 768px) {
+  /* ...code... */
+}
+
+/* Large devices */
+@media only screen and (min-width: 992px) {
+  /* ...code... */
+}
+
+/* XL devices */
+@media only screen and (min-width: 1200px) {
+  /* ...code... */
+}
