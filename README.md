@@ -10,3 +10,4 @@ This repository is a place to store code snippets. The intention is to collect u
 - stylelint (stylelint.vscode-stylelint)
 - Tabnine Autocomplete AI (TabNine)
 
+### Useful Rails Gems
