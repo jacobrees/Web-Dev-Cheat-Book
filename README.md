@@ -10,6 +10,7 @@ This repository is a place to store code snippets. The intention is to collect u
 - Natural Reader Text To Speech
 - Google Translate
 - JSON Formatter
+- Any Youtube Playback Speed
 
 ## My Code Editor: Visual Studio Code
 
