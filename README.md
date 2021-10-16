@@ -19,4 +19,8 @@ This repository is a place to store code snippets. The intention is to collect u
 - Live Server (ritwickdey.liveserver)
 - stylelint (stylelint.vscode-stylelint)
 - Tabnine Autocomplete AI (TabNine)
+- Ruby On Rails (Hridoy)
+- VSCode Ruby (Stafford Brunk)
+- vscode-icons (VSCode Icons Team)
+
 
