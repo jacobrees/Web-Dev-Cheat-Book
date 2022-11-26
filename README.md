@@ -19,3 +19,5 @@ This repository is a place to store code snippets. The intention is to collect u
 - Tabnine Autocomplete AI (TabNine)
 - Ruby on Rails (Hridoy)
 - vscode-icons (VSCode Icons Team)
+- GitHub Copilot (GitHub)
+- EJS language support (DigitalBrainstem)
