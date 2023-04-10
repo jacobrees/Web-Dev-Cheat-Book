@@ -16,7 +16,7 @@ This repository is a place to store code snippets. The intention is to collect u
 - Live Sass Compiler (ritwickdey.live-sass)
 - Live Server (ritwickdey.liveserver)
 - stylelint (stylelint.vscode-stylelint)
-- Tabnine Autocomplete AI (TabNine)
+- Github Copilot (Github)
 - Ruby on Rails (Hridoy)
 - Material Icon Theme (Philipp Kief)
 - GitHub Copilot (GitHub)
