@@ -26,3 +26,4 @@ This repository is a place to store code snippets. The intention is to collect u
 - ES7+ React/Redux/React-Native snippets (dsznajder)
 - One Dark Pro (binaryify)
 - Prettier - Code formatter (Prettier)
+- Shader languages support for VS Code (slevesque)
