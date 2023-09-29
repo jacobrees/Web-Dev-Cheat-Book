@@ -27,3 +27,4 @@ This repository is a place to store code snippets. The intention is to collect u
 - One Dark Pro (binaryify)
 - Prettier - Code formatter (Prettier)
 - Shader languages support for VS Code (slevesque)
+- ESLint (Microsoft)
