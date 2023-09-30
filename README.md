@@ -28,3 +28,4 @@ This repository is a place to store code snippets. The intention is to collect u
 - Prettier - Code formatter (Prettier)
 - Shader languages support for VS Code (slevesque)
 - ESLint (Microsoft)
+- Quokka.js (Wallaby.js)
