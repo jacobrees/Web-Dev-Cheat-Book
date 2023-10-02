@@ -9,6 +9,7 @@ This repository is a place to store code snippets. The intention is to collect u
 - ColorPick Eyedropper
 - Natural Reader Text To Speech
 - JSON Formatter
+- React Developer Tools
 
 ## My Code Editor: Visual Studio Code
 
